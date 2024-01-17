@@ -1,10 +1,10 @@
 # ReMeeting-the-Wheel
-![](HTB_logo.png)
+![](/HTB_logo.png)
 
 This is my challenage for Hack the box "ReMeeting the Wheel"
 
 
-<font size="10">[ReMeeting the wheel](https://app.hackthebox.com/challenges/remeeting-the-wheel)</font>
+##[ReMeeting the wheel](https://app.hackthebox.com/challenges/remeeting-the-wheel)
 
 12<sup>th</sup> January 2024
 
