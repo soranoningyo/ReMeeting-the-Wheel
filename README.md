@@ -1,5 +1,5 @@
 # ReMeeting-the-Wheel
-![]([assets/images/banner.png](https://avatars.githubusercontent.com/u/31746234?s=280&v=4))
+![](HTB_logo.png)
 
 This is my challenage for Hack the box "ReMeeting the Wheel"
 
