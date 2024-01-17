@@ -1,5 +1,5 @@
 # ReMeeting-the-Wheel
-![](/HTB_logo.png)
+![HTB logo](HTB_logo.png)
 
 This is my challenage for Hack the box "ReMeeting the Wheel"
 
